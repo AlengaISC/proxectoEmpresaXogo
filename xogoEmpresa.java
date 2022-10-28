@@ -28,5 +28,6 @@ public class xogoEmpresa {
             }
         }
         System.out.println("O cliente terá que pagar: " + prezo + "€");
+	System.out.println("Non sei que hai que poñerlle aquí")
     }
 }
